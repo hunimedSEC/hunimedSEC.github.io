@@ -2,7 +2,7 @@
 layout: default
 title: Basketball Tournament
 grand_parent: Events
-parent: Past
+parent: Past Events
 nav_order: 1
 ---
 
