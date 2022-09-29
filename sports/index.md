@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Sports Clubs
-parent: Clubs
+title: Sports
 nav_order: 2
 has_children: true
 ---

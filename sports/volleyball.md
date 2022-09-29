@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Volleyball
-grand_parent: Clubs
-parent: Sports Clubs
+parent: Sports
 nav_order: 1
 ---
 
 # Volleyball Club
+
+### A message from the moderators:
 
 Hi everyone! As many of you requested we are trying to organise volleyball matches and maybe tournament 🏐 <br><br>
 If you are interested, join the chat so we can start playing as soon as possible! <br>

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Paddleball
-grand_parent: Clubs
-parent: Sports Clubs
+parent: Sports
 nav_order: 1
 ---
